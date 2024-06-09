@@ -31,4 +31,16 @@ int main() {
     cout << "Total distance = " << d3.feet << " feet, "
        << d3.inch <<" inches";
     return 0;
-}
+#include <iostream>
+using namespace std;
+int main(){
+int a, b;
+cout<<"Enter first number";
+cin>>a;
+cout<<"Enter second number";
+cin>>b;
+sum=a+b;
+cout<<"the sum of the two number"<<sum<<endl;
+return 0;
+
+//noor is changing //
